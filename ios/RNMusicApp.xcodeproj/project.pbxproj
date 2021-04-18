@@ -8,35 +8,19 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* RNMusicAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* RNMusicAppTests.m */; };
-		032EE087ACB463D4A22B852A /* libPods-RNMusicApp-RNMusicAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 628D9ED938DEF22A2A7F540E /* libPods-RNMusicApp-RNMusicAppTests.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		15717E44FDB34A90959A135C /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F5526106A0DC4A0AA17EF7E7 /* Octicons.ttf */; };
-		1A0106860AE50A80AE68FD90 /* libPods-RNMusicApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FD3AA30FC52A9B8942FD2363 /* libPods-RNMusicApp.a */; };
-		1BA19134457944659AA53A18 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 27E11B4BA6774A169DB9E860 /* Foundation.ttf */; };
+		1ABCDF8FCE39190A4CCCA7B8 /* libPods-RNMusicApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 6D925D5D4ADA4A0DEEE878CD /* libPods-RNMusicApp.a */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* RNMusicAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* RNMusicAppTests.m */; };
-		49F857198E7F47428B2E5FC0 /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F14AF1BD57FA4457974D553E /* AntDesign.ttf */; };
-		4A14D20D0A9B43409407F33B /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 44101AD760D247C0AD93FE9B /* Zocial.ttf */; };
-		6164AF084A0F498AB7640918 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 063824FDA2B74D53A4EBBAB7 /* MaterialCommunityIcons.ttf */; };
-		69378E55021020414B0CFDE1 /* libPods-RNMusicApp-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D689B03DA0C70587D59034EF /* libPods-RNMusicApp-tvOS.a */; };
-		765D0E92127D4D6D944C77CB /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8DF3EA7F40364F7D90F35097 /* Feather.ttf */; };
-		7CA47C49DFAE429AB199A66D /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BD7F9FD47C97489E981FA679 /* FontAwesome5_Brands.ttf */; };
+		5182D0BC11FBF0676D8EACE0 /* libPods-RNMusicApp-RNMusicAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 636AA1FA1A15C0757754C2ED /* libPods-RNMusicApp-RNMusicAppTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		948CB1A106ED419EAF268951 /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 93CDB4A783EC435896075E32 /* FontAwesome5_Regular.ttf */; };
-		A35C26D3D13B4112A3BA8C5C /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 08D9414EC607402BBDA029CC /* FontAwesome.ttf */; };
-		A5026F736B684941A59FA002 /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1F1F807502874FC48A38E5ED /* SimpleLineIcons.ttf */; };
-		A9053BDE50EC4EB28D971547 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 40C20C9AE7BC4BCCA11BE45D /* Ionicons.ttf */; };
-		A9FDB0F2C93342D887A7B901 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4844AAAEF5A44E2482A5E97B /* MaterialIcons.ttf */; };
-		B63AB6E649E14C4DB848F4DB /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3DB2DA4C014840A89A479978 /* EvilIcons.ttf */; };
-		B66EDF5F86BE46E683614C4C /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 68407BAE24004011B510E687 /* FontAwesome5_Solid.ttf */; };
-		C7B42318EC744A65A6E4B171 /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1E79D350E19344069F026D2A /* Fontisto.ttf */; };
-		ED346C63E4EE177BC9173037 /* libPods-RNMusicApp-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FD330B36CE458C1CC1230C07 /* libPods-RNMusicApp-tvOSTests.a */; };
+		CC0002B757C37F71B5B18DAE /* libPods-RNMusicApp-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = AFF33D20FF9A2C6D2120A5DB /* libPods-RNMusicApp-tvOS.a */; };
+		DD97FD3AC70CBEE3E402FBDB /* libPods-RNMusicApp-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A9CF5BF1B784DB63999EE6B2 /* libPods-RNMusicApp-tvOSTests.a */; };
 		F45A582D25DBFDB0003975CB /* libswiftWebKit.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = F45A582C25DBFDB0003975CB /* libswiftWebKit.tbd */; };
-		F611494051FE453B821B20B0 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 425D2E7D5322433AB9D49217 /* Entypo.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,40 +42,42 @@
 
 /* Begin PBXFileReference section */
 		008F07F21AC5B25A0029DE68 /* main.jsbundle */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = main.jsbundle; sourceTree = "<group>"; };
-		00BB1E247214ACE4459836D8 /* Pods-RNMusicApp-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNMusicApp-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-RNMusicApp-tvOSTests/Pods-RNMusicApp-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		00E356EE1AD99517003FC87E /* RNMusicAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RNMusicAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* RNMusicAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = RNMusicAppTests.m; sourceTree = "<group>"; };
 		063824FDA2B74D53A4EBBAB7 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
 		08D9414EC607402BBDA029CC /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
+		09685A5AC61D6C3EF7B70060 /* Pods-RNMusicApp-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNMusicApp-tvOS.release.xcconfig"; path = "Target Support Files/Pods-RNMusicApp-tvOS/Pods-RNMusicApp-tvOS.release.xcconfig"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* RNMusicApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RNMusicApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = RNMusicApp/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = RNMusicApp/AppDelegate.m; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = RNMusicApp/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = RNMusicApp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = RNMusicApp/main.m; sourceTree = "<group>"; };
-		1BC7ACA1D2A70407EFD1DE1B /* Pods-RNMusicApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNMusicApp.debug.xcconfig"; path = "Target Support Files/Pods-RNMusicApp/Pods-RNMusicApp.debug.xcconfig"; sourceTree = "<group>"; };
+		143A00EF09F6B889229392EB /* Pods-RNMusicApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNMusicApp.debug.xcconfig"; path = "Target Support Files/Pods-RNMusicApp/Pods-RNMusicApp.debug.xcconfig"; sourceTree = "<group>"; };
+		15EEE11D1800EB422A10FC1F /* Pods-RNMusicApp-RNMusicAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNMusicApp-RNMusicAppTests.release.xcconfig"; path = "Target Support Files/Pods-RNMusicApp-RNMusicAppTests/Pods-RNMusicApp-RNMusicAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		18A09D7EBD06F5C0CFE84354 /* Pods-RNMusicApp-RNMusicAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNMusicApp-RNMusicAppTests.debug.xcconfig"; path = "Target Support Files/Pods-RNMusicApp-RNMusicAppTests/Pods-RNMusicApp-RNMusicAppTests.debug.xcconfig"; sourceTree = "<group>"; };
 		1E79D350E19344069F026D2A /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
 		1F1F807502874FC48A38E5ED /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
 		27E11B4BA6774A169DB9E860 /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* RNMusicApp-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "RNMusicApp-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* RNMusicApp-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "RNMusicApp-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		334544212D504F4BDB94995A /* Pods-RNMusicApp-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNMusicApp-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-RNMusicApp-tvOS/Pods-RNMusicApp-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
 		3DB2DA4C014840A89A479978 /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
+		3F48009DC90FA2771BACFA6C /* Pods-RNMusicApp-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNMusicApp-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-RNMusicApp-tvOSTests/Pods-RNMusicApp-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		40C20C9AE7BC4BCCA11BE45D /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
 		425D2E7D5322433AB9D49217 /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
 		44101AD760D247C0AD93FE9B /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
 		4844AAAEF5A44E2482A5E97B /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
-		628D9ED938DEF22A2A7F540E /* libPods-RNMusicApp-RNMusicAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RNMusicApp-RNMusicAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		636AA1FA1A15C0757754C2ED /* libPods-RNMusicApp-RNMusicAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RNMusicApp-RNMusicAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		68407BAE24004011B510E687 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
-		78DF1107150C4B63EB8BD9A0 /* Pods-RNMusicApp-RNMusicAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNMusicApp-RNMusicAppTests.debug.xcconfig"; path = "Target Support Files/Pods-RNMusicApp-RNMusicAppTests/Pods-RNMusicApp-RNMusicAppTests.debug.xcconfig"; sourceTree = "<group>"; };
+		6D925D5D4ADA4A0DEEE878CD /* libPods-RNMusicApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RNMusicApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		70AA6D4F90AE9441752D917E /* Pods-RNMusicApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNMusicApp.release.xcconfig"; path = "Target Support Files/Pods-RNMusicApp/Pods-RNMusicApp.release.xcconfig"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = RNMusicApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8DF3EA7F40364F7D90F35097 /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
-		8EF62396373668C3214B487F /* Pods-RNMusicApp-RNMusicAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNMusicApp-RNMusicAppTests.release.xcconfig"; path = "Target Support Files/Pods-RNMusicApp-RNMusicAppTests/Pods-RNMusicApp-RNMusicAppTests.release.xcconfig"; sourceTree = "<group>"; };
 		93CDB4A783EC435896075E32 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
-		9DFEECC74B3021BA331D61E9 /* Pods-RNMusicApp-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNMusicApp-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-RNMusicApp-tvOS/Pods-RNMusicApp-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
-		A4A49ED14933BAC5C6F78BAC /* Pods-RNMusicApp-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNMusicApp-tvOS.release.xcconfig"; path = "Target Support Files/Pods-RNMusicApp-tvOS/Pods-RNMusicApp-tvOS.release.xcconfig"; sourceTree = "<group>"; };
-		AA9A0F04E5793E766E5C658F /* Pods-RNMusicApp-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNMusicApp-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-RNMusicApp-tvOSTests/Pods-RNMusicApp-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		BB55DF85C7C000159A2C5433 /* Pods-RNMusicApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNMusicApp.release.xcconfig"; path = "Target Support Files/Pods-RNMusicApp/Pods-RNMusicApp.release.xcconfig"; sourceTree = "<group>"; };
+		A9CF5BF1B784DB63999EE6B2 /* libPods-RNMusicApp-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RNMusicApp-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AFF33D20FF9A2C6D2120A5DB /* libPods-RNMusicApp-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RNMusicApp-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD7F9FD47C97489E981FA679 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
 		C20B9F01257B659500BB8406 /* Fontisto.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Fontisto.ttf; sourceTree = "<group>"; };
 		C20B9F02257B659500BB8406 /* Octicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Octicons.ttf; sourceTree = "<group>"; };
@@ -109,14 +95,12 @@
 		C20B9F0E257B659500BB8406 /* EvilIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = EvilIcons.ttf; sourceTree = "<group>"; };
 		C20B9F0F257B659500BB8406 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SimpleLineIcons.ttf; sourceTree = "<group>"; };
 		C20B9F10257B659500BB8406 /* MaterialIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialIcons.ttf; sourceTree = "<group>"; };
-		D689B03DA0C70587D59034EF /* libPods-RNMusicApp-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RNMusicApp-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D1107810E07E52D1EEE6D7CD /* Pods-RNMusicApp-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RNMusicApp-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-RNMusicApp-tvOSTests/Pods-RNMusicApp-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
 		F14AF1BD57FA4457974D553E /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
 		F45A582C25DBFDB0003975CB /* libswiftWebKit.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libswiftWebKit.tbd; path = usr/lib/swift/libswiftWebKit.tbd; sourceTree = SDKROOT; };
 		F5526106A0DC4A0AA17EF7E7 /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
-		FD330B36CE458C1CC1230C07 /* libPods-RNMusicApp-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RNMusicApp-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		FD3AA30FC52A9B8942FD2363 /* libPods-RNMusicApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RNMusicApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -124,7 +108,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				032EE087ACB463D4A22B852A /* libPods-RNMusicApp-RNMusicAppTests.a in Frameworks */,
+				5182D0BC11FBF0676D8EACE0 /* libPods-RNMusicApp-RNMusicAppTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -133,7 +117,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F45A582D25DBFDB0003975CB /* libswiftWebKit.tbd in Frameworks */,
-				1A0106860AE50A80AE68FD90 /* libPods-RNMusicApp.a in Frameworks */,
+				1ABCDF8FCE39190A4CCCA7B8 /* libPods-RNMusicApp.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,7 +125,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				69378E55021020414B0CFDE1 /* libPods-RNMusicApp-tvOS.a in Frameworks */,
+				CC0002B757C37F71B5B18DAE /* libPods-RNMusicApp-tvOS.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -149,7 +133,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ED346C63E4EE177BC9173037 /* libPods-RNMusicApp-tvOSTests.a in Frameworks */,
+				DD97FD3AC70CBEE3E402FBDB /* libPods-RNMusicApp-tvOSTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -194,10 +178,10 @@
 				F45A582C25DBFDB0003975CB /* libswiftWebKit.tbd */,
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
 				ED2971642150620600B7C4FE /* JavaScriptCore.framework */,
-				FD3AA30FC52A9B8942FD2363 /* libPods-RNMusicApp.a */,
-				628D9ED938DEF22A2A7F540E /* libPods-RNMusicApp-RNMusicAppTests.a */,
-				D689B03DA0C70587D59034EF /* libPods-RNMusicApp-tvOS.a */,
-				FD330B36CE458C1CC1230C07 /* libPods-RNMusicApp-tvOSTests.a */,
+				6D925D5D4ADA4A0DEEE878CD /* libPods-RNMusicApp.a */,
+				636AA1FA1A15C0757754C2ED /* libPods-RNMusicApp-RNMusicAppTests.a */,
+				AFF33D20FF9A2C6D2120A5DB /* libPods-RNMusicApp-tvOS.a */,
+				A9CF5BF1B784DB63999EE6B2 /* libPods-RNMusicApp-tvOSTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -239,14 +223,14 @@
 		99A7203821C6A6691BD63392 /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				1BC7ACA1D2A70407EFD1DE1B /* Pods-RNMusicApp.debug.xcconfig */,
-				BB55DF85C7C000159A2C5433 /* Pods-RNMusicApp.release.xcconfig */,
-				78DF1107150C4B63EB8BD9A0 /* Pods-RNMusicApp-RNMusicAppTests.debug.xcconfig */,
-				8EF62396373668C3214B487F /* Pods-RNMusicApp-RNMusicAppTests.release.xcconfig */,
-				9DFEECC74B3021BA331D61E9 /* Pods-RNMusicApp-tvOS.debug.xcconfig */,
-				A4A49ED14933BAC5C6F78BAC /* Pods-RNMusicApp-tvOS.release.xcconfig */,
-				AA9A0F04E5793E766E5C658F /* Pods-RNMusicApp-tvOSTests.debug.xcconfig */,
-				00BB1E247214ACE4459836D8 /* Pods-RNMusicApp-tvOSTests.release.xcconfig */,
+				143A00EF09F6B889229392EB /* Pods-RNMusicApp.debug.xcconfig */,
+				70AA6D4F90AE9441752D917E /* Pods-RNMusicApp.release.xcconfig */,
+				18A09D7EBD06F5C0CFE84354 /* Pods-RNMusicApp-RNMusicAppTests.debug.xcconfig */,
+				15EEE11D1800EB422A10FC1F /* Pods-RNMusicApp-RNMusicAppTests.release.xcconfig */,
+				334544212D504F4BDB94995A /* Pods-RNMusicApp-tvOS.debug.xcconfig */,
+				09685A5AC61D6C3EF7B70060 /* Pods-RNMusicApp-tvOS.release.xcconfig */,
+				D1107810E07E52D1EEE6D7CD /* Pods-RNMusicApp-tvOSTests.debug.xcconfig */,
+				3F48009DC90FA2771BACFA6C /* Pods-RNMusicApp-tvOSTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -305,11 +289,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "RNMusicAppTests" */;
 			buildPhases = (
-				F59DCA27FFC80D0D27BD1078 /* [CP] Check Pods Manifest.lock */,
+				A778A891F464C660AB5DE36B /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				713D6176899F590E37B99D5D /* [CP] Copy Pods Resources */,
+				B41B3669A0E5FDF017FDF843 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -325,13 +309,13 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "RNMusicApp" */;
 			buildPhases = (
-				ECBD57CB5FC7FA231C31CC3D /* [CP] Check Pods Manifest.lock */,
+				E92451B3EDA3C0C3D0930FCD /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				2894178B51B83AF715FF45EC /* [CP] Copy Pods Resources */,
+				A46968BBA57A1CC951066F18 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -346,7 +330,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2D02E4BA1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "RNMusicApp-tvOS" */;
 			buildPhases = (
-				6C0E5BF5A01140A3C846A7D8 /* [CP] Check Pods Manifest.lock */,
+				1939173CC932D4887C6E878D /* [CP] Check Pods Manifest.lock */,
 				FD10A7F122414F3F0027D42C /* Start Packager */,
 				2D02E4771E0B4A5D006451C7 /* Sources */,
 				2D02E4781E0B4A5D006451C7 /* Frameworks */,
@@ -366,7 +350,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 2D02E4BB1E0B4A5E006451C7 /* Build configuration list for PBXNativeTarget "RNMusicApp-tvOSTests" */;
 			buildPhases = (
-				EA33E64ECD031D66EC031D4D /* [CP] Check Pods Manifest.lock */,
+				77BA2EF03848A74D7EC1E5AF /* [CP] Check Pods Manifest.lock */,
 				2D02E48C1E0B4A5D006451C7 /* Sources */,
 				2D02E48D1E0B4A5D006451C7 /* Frameworks */,
 				2D02E48E1E0B4A5D006451C7 /* Resources */,
@@ -442,22 +426,6 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
-				49F857198E7F47428B2E5FC0 /* AntDesign.ttf in Resources */,
-				F611494051FE453B821B20B0 /* Entypo.ttf in Resources */,
-				B63AB6E649E14C4DB848F4DB /* EvilIcons.ttf in Resources */,
-				765D0E92127D4D6D944C77CB /* Feather.ttf in Resources */,
-				A35C26D3D13B4112A3BA8C5C /* FontAwesome.ttf in Resources */,
-				7CA47C49DFAE429AB199A66D /* FontAwesome5_Brands.ttf in Resources */,
-				948CB1A106ED419EAF268951 /* FontAwesome5_Regular.ttf in Resources */,
-				B66EDF5F86BE46E683614C4C /* FontAwesome5_Solid.ttf in Resources */,
-				C7B42318EC744A65A6E4B171 /* Fontisto.ttf in Resources */,
-				1BA19134457944659AA53A18 /* Foundation.ttf in Resources */,
-				A9053BDE50EC4EB28D971547 /* Ionicons.ttf in Resources */,
-				6164AF084A0F498AB7640918 /* MaterialCommunityIcons.ttf in Resources */,
-				A9FDB0F2C93342D887A7B901 /* MaterialIcons.ttf in Resources */,
-				15717E44FDB34A90959A135C /* Octicons.ttf in Resources */,
-				A5026F736B684941A59FA002 /* SimpleLineIcons.ttf in Resources */,
-				4A14D20D0A9B43409407F33B /* Zocial.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -491,9 +459,67 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
+			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh\n";
+		};
+		1939173CC932D4887C6E878D /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-RNMusicApp-tvOS-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Bundle React Native Code And Images";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
 			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
 		};
-		2894178B51B83AF715FF45EC /* [CP] Copy Pods Resources */ = {
+		77BA2EF03848A74D7EC1E5AF /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-RNMusicApp-tvOSTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A46968BBA57A1CC951066F18 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -543,21 +569,7 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-RNMusicApp/Pods-RNMusicApp-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		2D02E4CB1E0B4B27006451C7 /* Bundle React Native Code And Images */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "Bundle React Native Code And Images";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
-		};
-		6C0E5BF5A01140A3C846A7D8 /* [CP] Check Pods Manifest.lock */ = {
+		A778A891F464C660AB5DE36B /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -572,14 +584,14 @@
 			outputFileListPaths = (
 			);
 			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-RNMusicApp-tvOS-checkManifestLockResult.txt",
+				"$(DERIVED_FILE_DIR)/Pods-RNMusicApp-RNMusicAppTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		713D6176899F590E37B99D5D /* [CP] Copy Pods Resources */ = {
+		B41B3669A0E5FDF017FDF843 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -629,29 +641,7 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-RNMusicApp-RNMusicAppTests/Pods-RNMusicApp-RNMusicAppTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		EA33E64ECD031D66EC031D4D /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-RNMusicApp-tvOSTests-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		ECBD57CB5FC7FA231C31CC3D /* [CP] Check Pods Manifest.lock */ = {
+		E92451B3EDA3C0C3D0930FCD /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -667,28 +657,6 @@
 			);
 			outputPaths = (
 				"$(DERIVED_FILE_DIR)/Pods-RNMusicApp-checkManifestLockResult.txt",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
-			showEnvVarsInLog = 0;
-		};
-		F59DCA27FFC80D0D27BD1078 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-			);
-			inputPaths = (
-				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
-				"${PODS_ROOT}/Manifest.lock",
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputFileListPaths = (
-			);
-			outputPaths = (
-				"$(DERIVED_FILE_DIR)/Pods-RNMusicApp-RNMusicAppTests-checkManifestLockResult.txt",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
@@ -788,7 +756,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 78DF1107150C4B63EB8BD9A0 /* Pods-RNMusicApp-RNMusicAppTests.debug.xcconfig */;
+			baseConfigurationReference = 18A09D7EBD06F5C0CFE84354 /* Pods-RNMusicApp-RNMusicAppTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -811,7 +779,7 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 8EF62396373668C3214B487F /* Pods-RNMusicApp-RNMusicAppTests.release.xcconfig */;
+			baseConfigurationReference = 15EEE11D1800EB422A10FC1F /* Pods-RNMusicApp-RNMusicAppTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -831,7 +799,7 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1BC7ACA1D2A70407EFD1DE1B /* Pods-RNMusicApp.debug.xcconfig */;
+			baseConfigurationReference = 143A00EF09F6B889229392EB /* Pods-RNMusicApp.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -858,7 +826,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = BB55DF85C7C000159A2C5433 /* Pods-RNMusicApp.release.xcconfig */;
+			baseConfigurationReference = 70AA6D4F90AE9441752D917E /* Pods-RNMusicApp.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -883,7 +851,7 @@
 		};
 		2D02E4971E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9DFEECC74B3021BA331D61E9 /* Pods-RNMusicApp-tvOS.debug.xcconfig */;
+			baseConfigurationReference = 334544212D504F4BDB94995A /* Pods-RNMusicApp-tvOS.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -911,7 +879,7 @@
 		};
 		2D02E4981E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = A4A49ED14933BAC5C6F78BAC /* Pods-RNMusicApp-tvOS.release.xcconfig */;
+			baseConfigurationReference = 09685A5AC61D6C3EF7B70060 /* Pods-RNMusicApp-tvOS.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -939,7 +907,7 @@
 		};
 		2D02E4991E0B4A5E006451C7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = AA9A0F04E5793E766E5C658F /* Pods-RNMusicApp-tvOSTests.debug.xcconfig */;
+			baseConfigurationReference = D1107810E07E52D1EEE6D7CD /* Pods-RNMusicApp-tvOSTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
@@ -966,7 +934,7 @@
 		};
 		2D02E49A1E0B4A5E006451C7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 00BB1E247214ACE4459836D8 /* Pods-RNMusicApp-tvOSTests.release.xcconfig */;
+			baseConfigurationReference = 3F48009DC90FA2771BACFA6C /* Pods-RNMusicApp-tvOSTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				CLANG_ANALYZER_NONNULL = YES;
